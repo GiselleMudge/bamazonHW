@@ -1,0 +1,27 @@
+{
+  "name": "bamazonHW",
+  "version": "1.0.0",
+  "description": "Amazon-like user experience featuring Node.js &amp; MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselleMudge/bamazonHW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiselleMudge/bamazonHW/issues"
+  },
+  "homepage": "https://github.com/GiselleMudge/bamazonHW#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "chalk": "^2.4.1",
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
